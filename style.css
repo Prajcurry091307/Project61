@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+}
+h2{
+    color: white;
+}
+h1{
+    color: red;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.sp{
+    margin: 10px;
+}
+.photo{
+  width: 200px;
+  height: 200px;
+}
+.parallix-inner{
+  color: white;
+  font-family: 'Courgette', cursive;
+}
+.intro-explain{
+  color:white;
+  padding: 20px;
+  text-align:center;
+}
+  .menu{
+    position: fixed;
+    background: white;
+    width:100%;
+    margin-top:0px;
+    margin-right: 10px;
+    top:0px;
+    z-index:10; 
+  }
+.link:hover{
+    font-size: 26px;
+    text-decoration: underline;
